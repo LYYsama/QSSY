@@ -1,0 +1,2 @@
+# QSSY
+MyResources
